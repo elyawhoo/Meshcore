@@ -1,3 +1,6 @@
+*Copyright (C) 2026 Concept House LLP*
+*This document and the Meshcore architecture are licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the LICENSE file for details.*
+
 # Meshcore: Decentralized Protocol for P2P Compute and LLM Inference (DePIN Architecture)
 This document outlines the concept, architectural design, and system implementation plan for Meshcore—a hybrid Web2.5 infrastructure protocol built for distributed edge computing, autonomous AI agents, and hosting Large Language Models (LLMs).
 ---
