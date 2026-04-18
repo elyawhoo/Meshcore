@@ -1,6 +1,5 @@
 # Meshcore: Decentralized Protocol for P2P Compute and LLM Inference (DePIN Architecture)
-The concept, architectural design and system plan for the implementation of the Meshcore platform, a hybrid Web2.5 B2B SaaS infrastructure for distributed computing, autonomous agents and hosting of large language models (LLM)
-
+This document outlines the concept, architectural design, and system implementation plan for Meshcore—a hybrid Web2.5 infrastructure protocol built for distributed edge computing, autonomous AI agents, and hosting Large Language Models (LLMs).
 ---
 
 ## 1. Initial Concept: Core Problem & Vision
